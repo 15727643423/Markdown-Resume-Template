@@ -25,8 +25,8 @@
 ## 项目经历
 
 1. 2023.6-2023.8  &emsp;&emsp;&emsp; 校园餐饮订单系统
-    * 应用技术
-    * 项目描述
+    * 应用技术：SpringBoot、SpringMVC、Spring Cache、JWT、WebSocket、MyBatis、Redis
+    * 项目描述：
     * 主要工作
     * 研究成果
     * 个人收获
